@@ -1,134 +1,134 @@
 # LinkedIn-Posts
 This repository contains all the links to the posts I upload on LinkedIn everyday and it's updated too.
 
-1. The beginning: Inspiraion
+1. The beginning: Inspiraion :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6680894597847142401-Yn5d
 
-2. pd.crosstab() function
+2. pd.crosstab() function :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6681232630635147264-1utt
 
-3. My Blog Post: Data Analysis Using Python (Part 6)
+3. My Blog Post: Data Analysis Using Python (Part 6) :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_data-analytics-using-python-part6-activity-6675170215355056128-asE9
 
-4. Scatter Plots
+4. Scatter Plots :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6681569063380037632-xcrZ
 
-5. Moving Average in Time Series Analysis
+5. Moving Average in Time Series Analysis :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6681983326242291712-OjU5
 
-6. Handling Missing Values in Data
+6. Handling Missing Values in Data :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6682305276722384897-q7PK
 
-7. Creative Time Series Application
+7. Creative Time Series Application :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6682709503298846721-96I2
 
-8. Regression Analysis Basics
+8. Regression Analysis Basics :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6683091726015565824-P8IC
 
-9. Importance of Data Visualization
+9. Importance of Data Visualization :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6683416458141188096-LjRd
 
-10. MY FIRST TABLEAU PROJECT for DOGNITION COMPANY
+10. MY FIRST TABLEAU PROJECT for DOGNITION COMPANY :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6683634322299326465-gDu2
 
-11. Correlation v/s Covariance
+11. Correlation v/s Covariance :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6684156279969103873-Wo88
 
-12. In Data Science, You're Always a Student
+12. In Data Science, You're Always a Student :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6684420811975086080-kdkI
 
-13. Significance of p-value in Hypothesis Testing
+13. Significance of p-value in Hypothesis Testing :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6684850072988983296--BWn
 
-14. The Exponential Distribution
+14. The Exponential Distribution :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6685188291664347136-m6dv
 
-15. Significance of Outliers in Data
+15. Significance of Outliers in Data :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6685559975315546113-lcyr
 
-16. A look into Standard Deviation
+16. A look into Standard Deviation :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6685874942191403008-4MH-
 
-17. The Hard Problem Series: Introduction
+17. The Hard Problem Series: Introduction :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_theabrhardabrproblemabrseries-day1-everyabrsmallabrknowledgeabrmatters-activity-6686226215344345090-W8TS
 
-18. The Hard Problem Series: Deterministic and Non-Deterministic Algorithms
+18. The Hard Problem Series: Deterministic and Non-Deterministic Algorithms :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_theabrhardabrproblemabrseries-day2-everyabrsmallabrknowledgeabrmatters-activity-6686505189387587584-bCPZ
 
-19. The Hard Problem Series: P and NP Class Algorithms
+19. The Hard Problem Series: P and NP Class Algorithms :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_theabrhardabrproblemabrseries-day3-everyabrsmallabrknowledgeabrmatters-activity-6686936038050406400-L1ZV
 
-20. R-squared v/s Adjusted R-squared
+20. R-squared v/s Adjusted R-squared :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6687326072318509057-cHv7
 
-21. Power of a Test
+21. Power of a Test :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-activity-6687724355692072960-wyWJ
 
-22. Box Plots v/s Violin Plots
+22. Box Plots v/s Violin Plots :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-datascience-activity-6692349058129920000-TyWT
 
-23. Correlation doesn't imply Causation
+23. Correlation doesn't imply Causation :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-datascience-activity-6692773489406959616-bTui
 
-24. Missing Value Imputation Using Linear Regression
+24. Missing Value Imputation Using Linear Regression :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-datascience-activity-6693168694471729152-8utV
 
-25. Introduction to Text Mining : My Blog Post
+25. Introduction to Text Mining : My Blog Post :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_text-mining-a-basic-beginners-guide-activity-6693532737703297024-LAjw
 
-26. Data Science Career Path by Thom Ives, PhD (Mentoring)
+26. Data Science Career Path by Thom Ives, PhD (Mentoring) :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_your-personal-data-science-learning-plan-activity-6693864185790521344-L_1p
 
-27. Rescaling v/s Normalizing v/s Standardizing
+27. Rescaling v/s Normalizing v/s Standardizing :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-datascience-activity-6694256843943878656-Ozh6
 
-28. Model Selection Criteria
+28. Model Selection Criteria :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-dataliteracy-activity-6694633986251087873--Z7k
 
-29. The ROC Curve
+29. The ROC Curve :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-datascience-activity-6695023995953131520-2Ssi
 
-30. The Confusion Matrix
+30. The Confusion Matrix :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-datascience-activity-6695324477967867904-5cO8
 
-31. How to Choose the Best Model for your Data
+31. How to Choose the Best Model for your Data :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-datascience-activity-6695709948237647872-18Bf
 
-32. The AUC-ROC curve Relationships
+32. The AUC-ROC curve Relationships :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-datascience-activity-6696031703619665920-kKfr
 
-33. Z-Score v/s T-Score
+33. Z-Score v/s T-Score :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-datascience-activity-6696433132935118848-oHDi
