@@ -132,3 +132,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 33. Z-Score v/s T-Score :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-datascience-activity-6696433132935118848-oHDi
+
+34. Logistic Regression :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintellegence-activity-6696793317658636288-V_nY
