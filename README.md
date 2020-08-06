@@ -136,3 +136,8 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 34. Logistic Regression :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintellegence-activity-6696793317658636288-V_nY
+
+35. Cluster Analysis :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintellegence-activity-6697162114441723904-SgOU
+
