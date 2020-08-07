@@ -141,3 +141,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintellegence-activity-6697162114441723904-SgOU
 
+36. K-pod Clustering :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6697470919541051392-zTDP
+
