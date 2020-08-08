@@ -145,3 +145,6 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6697470919541051392-zTDP
 
+37. Hierarchical Clustering :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6697811030568910848-7wY1
