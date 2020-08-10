@@ -148,3 +148,11 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 37. Hierarchical Clustering :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6697811030568910848-7wY1
+
+38. K-means Clustering :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6698262166274883585-2jKv
+
+39. Python enumerate() function :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintellegence-activity-6698571765909602304-xTf9
