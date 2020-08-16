@@ -160,3 +160,11 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 40. Collinearity (Part 1) :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6699281940610084864-ekT8
+
+41. Collinearity (Part 2) :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-innovation-activity-6699712999541768192-m0Er
+
+42. Dimensionality Reduction :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-innovation-activity-6700064668091723777-398k
