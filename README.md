@@ -184,3 +184,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 46. DBScan :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6703343223760277504-3Iqw
+
+47. How does artificial intelligence affect the environment :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_how-does-artificial-intelligence-affect-the-activity-6703704528899842048-ncIL
