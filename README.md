@@ -188,3 +188,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 47. How does artificial intelligence affect the environment :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_how-does-artificial-intelligence-affect-the-activity-6703704528899842048-ncIL
+
+48. ARMA Model :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6704790207121657858-8rVk
