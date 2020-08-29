@@ -192,3 +192,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_how-does-artificial-intellig
 48. ARMA Model :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6704790207121657858-8rVk
+
+49. ACF and PACF Plots :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6705521422736875520-LQJ9
