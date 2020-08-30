@@ -193,6 +193,10 @@ https://www.linkedin.com/posts/teena-mary-243b17190_how-does-artificial-intellig
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6704790207121657858-8rVk
 
-49. ACF and PACF Plots :
+49. ACF and PACF Plots of AR Model :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6705521422736875520-LQJ9
+
+50. ACF and PACF Plots of MA Model :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-dataliteracy-activity-6705845945487134720-U8XD
