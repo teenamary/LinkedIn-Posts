@@ -200,3 +200,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 50. ACF and PACF Plots of MA Model :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-dataliteracy-activity-6705845945487134720-U8XD
+
+51. Normal Distribution: Introduction to PDF and CDF :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6706554697827786752-3ZfS
