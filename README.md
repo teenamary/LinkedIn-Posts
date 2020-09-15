@@ -212,3 +212,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 53. Significance of paramenters in ARMA and ARIMA models:
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6708029504771629057-jgyJ
+
+54. Support Vector Machine Algorithm :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6711606040590344192-F-rh
