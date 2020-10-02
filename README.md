@@ -228,3 +228,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 56. Maximum Likelihood Estimation :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-artificialintelligence-activity-6717452367920435200-zYgn
+
+57. Variance Inflation Factor :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-dataliteracy-activity-6717828577066266625-5NFe
