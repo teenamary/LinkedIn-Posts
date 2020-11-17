@@ -232,3 +232,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 57. Variance Inflation Factor :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabrmatters-dataliteracy-activity-6717828577066266625-5NFe
+
+58. Bias Variance Tradeoff :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_artificialintelligence-dataliteracy-datascience-activity-6734467472591749120-dC5q
