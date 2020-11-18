@@ -236,3 +236,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_everyabrsmallabrknowledgeabr
 58. Bias Variance Tradeoff :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_artificialintelligence-dataliteracy-datascience-activity-6734467472591749120-dC5q
+
+59. Black Box Models :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_artificialintelligence-dataliteracy-activity-6734839776320462848-LxxM
