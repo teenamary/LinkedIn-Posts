@@ -240,3 +240,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_artificialintelligence-datal
 59. Black Box Models :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_artificialintelligence-dataliteracy-activity-6734839776320462848-LxxM
+
+60. What is Ensemble Learning :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_artificialintelligence-dataliteracy-datascience-activity-6735535252745408512-1cCR
