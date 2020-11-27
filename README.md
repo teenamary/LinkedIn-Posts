@@ -244,3 +244,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_artificialintelligence-datal
 60. What is Ensemble Learning :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_artificialintelligence-dataliteracy-datascience-activity-6735535252745408512-1cCR
+
+61. Bootstrapping :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_datascience-dataliteracy-artificialintelligence-activity-6738071694109351936-oPyo
