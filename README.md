@@ -248,3 +248,7 @@ https://www.linkedin.com/posts/teena-mary-243b17190_artificialintelligence-datal
 61. Bootstrapping :
 
 https://www.linkedin.com/posts/teena-mary-243b17190_datascience-dataliteracy-artificialintelligence-activity-6738071694109351936-oPyo
+
+62. Bagging :
+
+https://www.linkedin.com/posts/teena-mary-243b17190_artificialintelligence-dataliteracy-datascience-activity-6740278507064049664-LAvC
